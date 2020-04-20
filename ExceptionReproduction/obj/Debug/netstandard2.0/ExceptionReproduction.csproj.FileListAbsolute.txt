@@ -1,0 +1,14 @@
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/bin/Debug/netstandard2.0/ExceptionReproduction.deps.json
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/bin/Debug/netstandard2.0/ExceptionReproduction.dll
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/bin/Debug/netstandard2.0/ref/ExceptionReproduction.dll
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/bin/Debug/netstandard2.0/ExceptionReproduction.pdb
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/ExceptionReproduction.csproj.CoreCompileInputs.cache
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/ExceptionReproduction.AssemblyInfoInputs.cache
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/ExceptionReproduction.AssemblyInfo.cs
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/ExceptionReproduction.dll
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/ref/ExceptionReproduction.dll
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/ExceptionReproduction.pdb
+/Users/samir/Projects/ExceptionReproduction/ExceptionReproduction/obj/Debug/netstandard2.0/ExceptionReproduction.csprojAssemblyReference.cache
